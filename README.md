@@ -2,7 +2,7 @@
 请确保拥有科学上网环境
 ### 1.运行环境设置
 
-`git clone `
+`git clone https://github.com/csuer411/chatgpt_webui.git`
 
 `cd chatgpt_webui`
 
